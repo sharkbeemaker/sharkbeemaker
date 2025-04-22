@@ -1,6 +1,4 @@
-Here's a professional GitHub-style English resume tailored for your background in embedded systems and robotics:
 
----
 
 # **Embedded Software Engineer | Robotics Enthusiast**  
 **University of Electronic Science and Technology of China, Zhongshan Institute**  
