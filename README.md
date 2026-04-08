@@ -11,9 +11,9 @@
 
 
 ## **Technical Stack**  
-`STM32/CubeMX` `FreeRTOS` `Control Algorithms (PID/LQR)` `ROS2`  
-`AHRS/EKF` `Robotic Arm Kinematics` `Isaac Sim/Gym` `PyTorch RL`  
-`EtherCAT/CAN` `SolidWorks` `Gazebo` `Git CI/CD`  
+`STM32/CubeMX` `RTOS` `Linux Embedded Software` `Control Algorithms (PID/LQR)` `ROS2`  
+ `Robotic Arm Kinematics` `Isaac Sim/Gym` `PyTorch RL`  
+`EtherCAT/CAN` `SolidWorks` `Gazebo` `Git CI/CD` `C++`
 
 ---
 
@@ -22,8 +22,6 @@
 - Served as **Embedded Team Lead** for competition robot development  
 - Designed real-time motor control system achieving 0.05° servo positioning accuracy  
 - Implemented **multi-robot coordination algorithm** with <5ms communication latency  
-- Key technologies: Autonomous navigation, Vision-based target tracking, Energy management  
-
 ---
 
 ## **Project Portfolio**  
@@ -41,16 +39,7 @@
 - Implemented EtherCAT master for 1kHz real-time control (IgH Master Stack)  
 - Integrated with MoveIt! for motion planning and Gazebo simulation  
 
----
 
-## **Open Source Impact**  
-- Maintain [**Embedded Robotics Cookbook**](link) (450+ stars, 60+ contributors)  
-- Contributed **STM32-HAL drivers** to OpenRobotics community  
-- Authored tutorial: *"Real-Time Control with FreeRTOS"*  
-
----
-## **Engineering Philosophy**  
----
 
 ## **Let's Collaborate**  
 Seeking partners for:  
@@ -58,10 +47,7 @@ Seeking partners for:
 - Bionic robot locomotion control research  
 - Industrial digital twin system development  
 
-**Proven in competition, ready for industrial challenges!**  
-📫 Best contact: [GitHub Discussions](https://github.com/yourusername/repo/discussions)  
 
----
 
 > *"The real problem is not whether machines think, but whether men do." - B.F. Skinner*  
 
