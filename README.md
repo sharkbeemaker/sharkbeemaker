@@ -2,11 +2,10 @@
 
 # **Embedded Software Engineer | Robotics Enthusiast**  
 **University of Electronic Science and Technology of China, Zhongshan Institute**  
-*B.Eng in Electronics & Information Engineering (Expected 20XX)*  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/sharkbeemaker) 
 
-📧 2472287264@qq.com | 📱 +86 150 6769 9305 | 🌍 Zhongshan, Guangdong  
+📧 2472287264@qq.com | 📱 +86 150 6769 9305 | 🌍 ShenZhen, Guangdong  
 ---
 
 
@@ -39,17 +38,4 @@
 - Implemented EtherCAT master for 1kHz real-time control (IgH Master Stack)  
 - Integrated with MoveIt! for motion planning and Gazebo simulation  
 
-
-
-## **Let's Collaborate**  
-Seeking partners for:  
-- GPU-accelerated robotic simulation pipelines  
-- Bionic robot locomotion control research  
-- Industrial digital twin system development  
-
-
-
-> *"The real problem is not whether machines think, but whether men do." - B.F. Skinner*  
-
---- 
 
